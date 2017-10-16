@@ -29,5 +29,5 @@ html {
 }
 
 html {
-  background-color: gray;
+  background-color: gray !important;
 }
