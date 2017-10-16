@@ -28,6 +28,7 @@ html {
   width: 100%;
 }
 
-html {
+html,
+body {
   background: gray !important;
 }
