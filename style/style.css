@@ -2,6 +2,7 @@ td,
 th {
   vertical-align: middle !important;
   text-align: center !important;
+  color: white !important;
 }
 
 .input-group {
@@ -30,5 +31,5 @@ html {
 
 html,
 body {
-  background: gray !important;
+  background: #002351 !important;
 }
