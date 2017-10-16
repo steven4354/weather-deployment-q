@@ -33,3 +33,7 @@ html,
 body {
   background: #002351 !important;
 }
+
+.white {
+  background: gray;
+}
