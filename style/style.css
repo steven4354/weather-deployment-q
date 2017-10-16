@@ -1,6 +1,7 @@
-td, th {
+td,
+th {
   vertical-align: middle !important;
-  text-align: center !important
+  text-align: center !important;
 }
 
 .input-group {
@@ -11,7 +12,8 @@ svg {
   height: 150px;
 }
 
-td:first-of-type, td:first-of-type > div {
+td:first-of-type,
+td:first-of-type > div {
   height: 200px;
   width: 250px;
 }
@@ -19,3 +21,7 @@ td:first-of-type, td:first-of-type > div {
 /* finds the first td for each row and its child (div)
 and give it a width and heigh
 */
+
+.container {
+  background-color: #002351;
+}
