@@ -16,12 +16,13 @@ td:first-of-type,
 td:first-of-type > div {
   height: 200px;
   width: 250px;
+  color: white;
 }
 
 /* finds the first td for each row and its child (div)
 and give it a width and heigh
 */
 
-.container {
+.body {
   background-color: #002351;
 }
